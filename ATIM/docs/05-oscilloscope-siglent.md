@@ -19,7 +19,7 @@ Sans tension sur le fil pilote, aucun front ne franchit 40 V : le statut alterne
 
 Avant le premier ordre, la trace est plate : Pk-Pk de 8 V, soit du bruit de mesure.
 
-![Siglent réglé, avant le premier ordre](../images/05-siglent-reference.jpg)
+![Siglent réglé, avant le premier ordre](../images/05-siglent-reference.png)
 
 ---
 
