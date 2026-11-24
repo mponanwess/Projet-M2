@@ -16,7 +16,7 @@ Ce dossier décrit, étape par étape et dans l'ordre chronologique, la mise en 
 
 - `docs/` : une page par étape ;
 - `images/` : photos des écrans d'oscilloscope ;
-- `codec/` : : les trois versions du décodeur TTN (codec ATIM allégé, puis corrigé).
+- `codec/` : les trois versions du décodeur TTN (codec ATIM allégé, puis corrigé).
 
 ## Sécurité
 
